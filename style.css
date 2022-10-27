@@ -1,0 +1,32 @@
+.one{
+	text-align:center;
+	font-family: cursive;
+	font-size:40px;
+	color:#F8F435;
+	text-shadow: -2px -2px 0 black, 2px -2px 0 grey, -2px 2px 0 black, 2px 2px 0 grey;
+}
+img{
+	width:350px;
+	border-radius: 30px;
+	float:right;
+	
+}
+h3{
+	font-family: cursive;
+}
+.top{
+	margin-top:30px;
+	background-color:#F8F435;
+	padding: 90px 200px 110px 100px;
+	font-size:27px;
+	font-family:Copperplate,Papyrus,fantasy;
+}
+body{
+	background-color: #F7F6F6;
+}
+.para h3{
+	font-size:30px;
+}
+.para{
+	margin-left:20px;
+}
